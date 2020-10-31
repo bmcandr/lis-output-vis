@@ -1,0 +1,12 @@
+name: geospatial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - xarray
+  - numpy
+  - scipy
+  - netcdf4
+  - dask
