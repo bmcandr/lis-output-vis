@@ -1,3 +1,5 @@
 .DS_Store
 *.bin
 *.1gs4r
+notebooks/dask-worker-space/
+*.mp4
