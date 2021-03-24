@@ -6,3 +6,4 @@ notebooks/dask-worker-space/
 *.tar.gz
 .ipynb_checkpoints/
 *.nc
+*.swp
