@@ -3,3 +3,4 @@
 *.1gs4r
 notebooks/dask-worker-space/
 *.mp4
+*.tar.gz
