@@ -5,3 +5,4 @@ notebooks/dask-worker-space/
 *.mp4
 *.tar.gz
 .ipynb_checkpoints/
+*.nc
